@@ -2,6 +2,6 @@
 
 ## 📚 Tech Skills
 
-## 📚 Learning
+## ✏️ Learning
 
 ## 📊 Status
