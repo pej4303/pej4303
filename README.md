@@ -25,6 +25,8 @@
 </div>
 
 ## 📊 Status
+![ejpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=pej4303)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pej4303)
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/pej4303"/>
 </a>
