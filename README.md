@@ -83,16 +83,21 @@
 </div>
 
 ## 📊 Status
-<div>
-  <div float="left" width="58%">
-    <img src="https://github-readme-stats.vercel.app/api?username=pej4303&count_private=true" alt="ejpark's GitHub stats" style="">
+<div align="center">
+  <div float="left" style="width: 60%">
+    <img src="https://github-readme-stats.vercel.app/api?username=pej4303&show_icons=true&theme=transparent" alt="GitHub Stats" style="">
   </div>
-  <div float="right" width="30%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pej4303" alt="Top Langs" style="">
+  <div float="right" style="width: 38%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pej4303&layout=compact&theme=transparent" alt="Top Languages" style="">
   </div>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pej4303&theme=transparent"/>
+  </a>
 </div>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/pej4303"/>
 </a>
+
 
 
