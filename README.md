@@ -85,7 +85,7 @@
 ## 📊 Status
 <div>
   <div float="left" width="58%">
-    <img src="https://github-readme-stats.vercel.app/api?username=pej4303" alt="ejpark's GitHub stats" style="">
+    <img src="https://github-readme-stats.vercel.app/api?username=pej4303&count_private=true" alt="ejpark's GitHub stats" style="">
   </div>
   <div float="right" width="30%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pej4303" alt="Top Langs" style="">
