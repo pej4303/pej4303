@@ -1,5 +1,8 @@
-## Hi there 👋
 <div align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello👋&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20ejpark's%20GitHub"/>
+  </a>
+  <br/>
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpej4303%2Fpej4303&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
