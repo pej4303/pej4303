@@ -79,12 +79,12 @@
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
-## ✏️ Learning
+<!-- ## ✏️ Learning
 <div align="center">
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">   
 </div>
-
+-->
 ## 📊 Status
 <div align="center">
   <div float="left" style="width: 60%">
