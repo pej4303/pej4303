@@ -94,12 +94,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pej4303&layout=donut&show_icons=true&theme=transparent&hide_border=false&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pej4303&theme=transparent" width=94%/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pej4303&bg_color=FFFFFF&line=2982FF&color=417E87" width=94%/>
+    </a>
+    <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/farms/pej4303" />
     </a>
 </div>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/pej4303"/>
-</a>
-
-
 
