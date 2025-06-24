@@ -3,17 +3,19 @@
     <img src="https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello👋&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20ejpark's%20GitHub"/>
   </a>
   <br/>
+
   <!--
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpej4303%2Fpej4303&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
   -->
-  <!--
+  
   <br/>
+  <!-- 백준 티어 -->
   <a href="https://solved.ac/pej4303" alt="Solved.ac프로필">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=pej4303"/>
   </a>
-  -->
+  
 </div>
 
 <!--
@@ -88,12 +90,13 @@
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
-<!-- ## ✏️ Learning
+ ## ✏️ Learning
 <div align="center">
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">   
+ <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=spring-data-jpa&logoColor=white">
+ <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
--->
+
 ## 📊 Status
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -109,7 +112,3 @@
         <img src="https://render.gitanimals.org/farms/pej4303" />
     </a>
 </div>
-
-<!--
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pej4303)](https://solved.ac/pej4303)
--->
